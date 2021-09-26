@@ -1,3 +1,5 @@
+// https://qiita.com/t_okkan/items/38aca98993bf06598af6
+
 import React, {useState, useEffect, useReducer } from 'react';
 import Amplify, { Auth } from 'aws-amplify';
 import API, { graphqlOperation } from '@aws-amplify/api';
